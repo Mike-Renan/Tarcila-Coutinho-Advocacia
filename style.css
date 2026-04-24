@@ -1391,6 +1391,15 @@ img {
         font-size: var(--font-size-3xl);
     }
 
+    .hero__image-circle {
+    width: 340px;
+    height: 340px;
+    border-radius: 62%;
+    overflow: hidden;
+    border: 5px solid var(--secondary-color);
+    box-shadow: 0 0 px rgba(201, 162, 39, -1.7);
+     position: relative;
+    }
     .servicos__container {
         grid-template-columns: 1fr;
     }
