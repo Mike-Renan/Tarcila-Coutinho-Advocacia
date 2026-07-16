@@ -1,4 +1,4 @@
-# Tarcila Coutinho Advocacia
+# Verusca Botosi Advocacia
 
 Este projeto é um site institucional desenvolvido para o escritório **Tarcila Coutinho Advocacia**, com o objetivo de apresentar informações sobre serviços jurídicos, contato e presença digital.
 
